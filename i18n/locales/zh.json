@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "shop": "商店",
+    "customPackaging": "定制包装",
+    "about": "关于我们",
+    "resources": "资源",
+    "blog": "博客",
+    "contact": "联系我们",
+    "search": "搜索",
+    "account": "账户",
+    "wishlist": "心愿单",
+    "cart": "购物车"
+  },
+  "home": {
+    "shopNow": "立即选购",
+    "customYourBag": "定制您的包装袋",
+    "shopByCategory": "按分类选购",
+    "customBannerTitle": "定制包装",
+    "customBannerCta": "立即开始",
+    "sustainBannerTitle": "可持续设计理念",
+    "sustainBannerCta": "了解更多"
+  },
+  "product": {
+    "addToCart": "加入购物车",
+    "buyNow": "立即购买",
+    "moq": "起订量",
+    "production": "生产周期",
+    "shipping": "配送",
+    "days": "天",
+    "units": "件",
+    "description": "产品描述",
+    "materialCare": "材质与保养",
+    "shippingReturns": "配送与退换",
+    "color": "颜色",
+    "size": "尺码",
+    "quantity": "数量"
+  },
+  "collection": {
+    "products": "件商品",
+    "sortBy": "排序",
+    "newest": "最新",
+    "priceAsc": "价格：从低到高",
+    "priceDesc": "价格：从高到低",
+    "name": "名称",
+    "filters": "筛选",
+    "categories": "分类",
+    "color": "颜色",
+    "size": "尺码",
+    "material": "材质",
+    "clearFilters": "清除所有筛选",
+    "noResults": "没有符合筛选条件的商品。"
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "购物车是空的",
+    "subtotal": "小计",
+    "checkout": "去结算",
+    "continueShopping": "继续购物",
+    "remove": "删除"
+  },
+  "checkout": {
+    "title": "结算",
+    "contact": "联系信息",
+    "shipping": "收货地址",
+    "review": "确认并提交询价",
+    "orderSummary": "订单摘要",
+    "placeOrder": "提交询价",
+    "success": "感谢您的提交！我们已收到您的询价。",
+    "orderNumber": "订单号",
+    "email": "邮箱",
+    "firstName": "名",
+    "lastName": "姓",
+    "company": "公司（选填）",
+    "phone": "电话",
+    "address": "地址",
+    "address2": "公寓、套房等",
+    "city": "城市",
+    "state": "省/州",
+    "postalCode": "邮编",
+    "country": "国家",
+    "notes": "订单备注"
+  },
+  "custom": {
+    "title": "定制包装",
+    "subtitle": "为您的品牌量身打造",
+    "getQuote": "获取报价",
+    "company": "公司名称",
+    "contactName": "联系人",
+    "productType": "产品类型",
+    "quantity": "预估数量",
+    "requirements": "需求与规格说明",
+    "submit": "提交询价",
+    "success": "询价已提交！我们将在 24 小时内回复。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "期待与您沟通",
+    "name": "姓名",
+    "subject": "主题",
+    "message": "留言",
+    "send": "发送消息",
+    "success": "消息发送成功！"
+  },
+  "blog": {
+    "title": "灵感与洞察",
+    "readMore": "阅读更多"
+  },
+  "about": {
+    "title": "打造讲述您品牌故事的包装",
+    "values": "我们的价值观"
+  },
+  "footer": {
+    "newsletter": "订阅我们的资讯",
+    "emailPlaceholder": "输入您的邮箱",
+    "subscribe": "订阅",
+    "shop": "商店",
+    "customerService": "客户服务",
+    "about": "关于我们",
+    "faq": "常见问题",
+    "shipping": "配送信息",
+    "returns": "退换货",
+    "privacy": "隐私政策"
+  },
+  "search": {
+    "title": "搜索",
+    "placeholder": "搜索商品...",
+    "noResults": "未找到结果"
+  },
+  "account": {
+    "title": "我的账户",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出登录",
+    "orders": "订单历史",
+    "email": "邮箱",
+    "password": "密码",
+    "noOrders": "暂无订单。"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出了点问题",
+    "back": "返回",
+    "home": "首页"
+  }
+}

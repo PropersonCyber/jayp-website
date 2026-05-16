@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "shop": "Shop",
+    "customPackaging": "Custom Packaging",
+    "about": "About Us",
+    "resources": "Resources",
+    "blog": "Blog",
+    "contact": "Contact",
+    "search": "Search",
+    "account": "Account",
+    "wishlist": "Wishlist",
+    "cart": "Cart"
+  },
+  "home": {
+    "shopNow": "Shop Now",
+    "customYourBag": "Custom Your Bag",
+    "shopByCategory": "Shop By Category",
+    "customBannerTitle": "Custom Packaging",
+    "customBannerCta": "Get Started",
+    "sustainBannerTitle": "Sustainable by Design",
+    "sustainBannerCta": "Learn More"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "moq": "MOQ",
+    "production": "Production Time",
+    "shipping": "Shipping",
+    "days": "days",
+    "units": "units",
+    "description": "Description",
+    "materialCare": "Material & Care",
+    "shippingReturns": "Shipping & Returns",
+    "color": "Color",
+    "size": "Size",
+    "quantity": "Quantity"
+  },
+  "collection": {
+    "products": "products",
+    "sortBy": "Sort by",
+    "newest": "Newest",
+    "priceAsc": "Price: Low to High",
+    "priceDesc": "Price: High to Low",
+    "name": "Name",
+    "filters": "Filters",
+    "categories": "Categories",
+    "color": "Color",
+    "size": "Size",
+    "material": "Material",
+    "clearFilters": "Clear all filters",
+    "noResults": "No products match your filters."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "contact": "Contact Information",
+    "shipping": "Shipping Address",
+    "review": "Review & Submit Inquiry",
+    "orderSummary": "Order Summary",
+    "placeOrder": "Submit Inquiry",
+    "success": "Thank you! Your inquiry has been submitted.",
+    "orderNumber": "Order Number",
+    "email": "Email",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "company": "Company (optional)",
+    "phone": "Phone",
+    "address": "Address",
+    "address2": "Apartment, suite, etc.",
+    "city": "City",
+    "state": "State / Province",
+    "postalCode": "Postal Code",
+    "country": "Country",
+    "notes": "Order Notes"
+  },
+  "custom": {
+    "title": "Custom Packaging",
+    "subtitle": "Tailored solutions for your brand",
+    "getQuote": "Get a Quote",
+    "company": "Company Name",
+    "contactName": "Contact Name",
+    "productType": "Product Type",
+    "quantity": "Estimated Quantity",
+    "requirements": "Requirements & Specifications",
+    "submit": "Submit Request",
+    "success": "Quote request submitted! We'll respond within 24 hours."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you",
+    "name": "Name",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "success": "Message sent successfully!"
+  },
+  "blog": {
+    "title": "Insights & Inspiration",
+    "readMore": "Read More"
+  },
+  "about": {
+    "title": "Crafting Packaging That Tells Your Story",
+    "values": "Our Values"
+  },
+  "footer": {
+    "newsletter": "Subscribe to our newsletter",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "shop": "Shop",
+    "customerService": "Customer Service",
+    "about": "About Us",
+    "faq": "FAQ",
+    "shipping": "Shipping Info",
+    "returns": "Returns",
+    "privacy": "Privacy Policy"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search products...",
+    "noResults": "No results found"
+  },
+  "account": {
+    "title": "My Account",
+    "login": "Log In",
+    "register": "Register",
+    "logout": "Log Out",
+    "orders": "Order History",
+    "email": "Email",
+    "password": "Password",
+    "noOrders": "No orders yet."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "back": "Back",
+    "home": "Home"
+  }
+}
