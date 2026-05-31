@@ -1,0 +1,16 @@
+# ==================== 依赖与构建 ====================
+# Node.js 依赖
+node_modules/
+.pnpm-store/
+yarn-error.log
+
+# 构建输出（根据框架调整）
+dist/
+build/
+.out/
+.ssr/
+public/dist/
+
+# Vite / Vue
+.cache/
+*.local
